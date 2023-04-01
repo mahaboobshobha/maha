@@ -1,0 +1,31 @@
+TRAIN MANAGEMENT SYSTEM
+
+==ADMIN LOGIN
+Username : henil
+
+Password : home12345
+
+==USER LOGIN
+Username : harry
+
+Password : code0
+
+BEFORE RUNNING PLEASE SET DATABASE DIRECTORY WHICH IS INSIDE 
+\Train Management System VB.NET\Train management VB.net\project\Database1.mdf
+
+-> Current Directory is " F:\Sem.4\extra vs code\Train management VB.net\project\Database1.mdf "
+DON'T FORGET TO CHANGE IT OTHER WISE THE SYSTEM WILL DISPLAY ERROR.
+
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+
+***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+
+
+***** FOR MORE PROJECTS :- https://code-projects.org/ *****
+
+
+
+
+THANK YOU FOR DOWNLOADING :) 
